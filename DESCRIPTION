@@ -12,9 +12,9 @@ Depends:
     splancs,
     data.table,
     RColorBrewer,
-    readxl
-    doMC
-    xtable
+    readxl,
+    doMC,
+    xtable,
     Agreement
 Imports:
     raster,
