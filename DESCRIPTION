@@ -13,6 +13,9 @@ Depends:
     data.table,
     RColorBrewer,
     readxl
+    doMC
+    xtable
+    Agreement
 Imports:
     raster,
     splancs,
